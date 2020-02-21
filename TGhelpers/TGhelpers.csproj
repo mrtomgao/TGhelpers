@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Dll</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageId>TGhelpers</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Tom</Authors>
+    <Company>GitHub</Company>
+    <PackageDescription>This package adds TGhelpers!</PackageDescription>
+    <RepositoryUrl>https://github.com/mrtomgao/TGhelpers</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
