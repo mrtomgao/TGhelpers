@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Dll</OutputType>
+    <OutputType>library</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <PackageId>TGhelpers</PackageId>
     <Version>1.0.0</Version>
