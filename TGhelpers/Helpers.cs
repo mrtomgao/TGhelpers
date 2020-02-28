@@ -8,5 +8,14 @@ namespace TGhelpers
         {
             return s + "Hello";
         }
+
+        public static string getBye(string s)
+        {
+            return s + "Bye";
+        }
+
+        public static string getWassup(string s) {
+            return s + "Wassup";
+        }
     }
 }
